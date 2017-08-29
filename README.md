@@ -14,4 +14,7 @@ Android 以命令方式调用 FFmpeg 时所需的修改好的待编译文件
       包名：  package com.jni;
 
    若不一致，则需自己生成底层接口文件，替换掉本目录中的 com_jni_FFmpegJni.c 和 com_jni_FFmpegJni.h 文件
+   
+   
+   具体使用方法参见博客。
 
